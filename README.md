@@ -1,5 +1,5 @@
 # CHEOLJIN CHOI
-
+<br><br>
 ## Skills
 ### Languages
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br><br>
@@ -12,6 +12,6 @@
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+<br><br>
 ## BOJ Rank
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chyuyuko7)](https://solved.ac/chyuyuko7)
