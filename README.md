@@ -17,4 +17,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chyuyuko7)](https://solved.ac/chyuyuko7)
 <br><br>
 ## GIT PROFILE
-![](https://github-readme-stats.vercel.app/api?username={FuJiGraphics}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=FuJiGraphics&theme=blue-green)
