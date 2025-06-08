@@ -14,4 +14,4 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## BOJ Rank
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chyuyuko7})](https://solved.ac/chyuyuko7)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chyuyuko7)](https://solved.ac/chyuyuko7)
