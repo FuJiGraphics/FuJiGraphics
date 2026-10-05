@@ -1,4 +1,3 @@
-# CHEOLJIN CHOI
 <br><br>
 ## Skills
 ### Languages
